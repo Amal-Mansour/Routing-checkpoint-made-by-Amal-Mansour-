@@ -1,0 +1,27 @@
+.w-100 {
+  width: 23rem !important;
+  height: 30rem !important;
+}
+
+.styleCard {
+  width: 23rem;
+  height: 37rem;
+  margin: 20px;
+  margin-top: 60px;
+  background-color:#922B21 !important;
+}
+
+.styleCard:hover {
+  transform: scale(1.08);
+}
+.styleTitle {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  color:#F4D03F !important;
+;
+}
+
+.btn {
+  color:#F4D03F;
+}
